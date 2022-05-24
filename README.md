@@ -1,2 +1,2 @@
 # Node-JS-Backend-Work
-These are NodeJs Work And Projects
+These are NodeJs projects, implementing all the important and crucial concepts of backend and nodejs-express js.
